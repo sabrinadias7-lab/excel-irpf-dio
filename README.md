@@ -38,7 +38,8 @@ O arquivo [`INFORME.xlsx`](./INFORME.xlsx) é dividido em 4 abas:
 
 ## 📸 Imagens
 
-Capturas de tela do preenchimento podem ser adicionadas na pasta [`/images`](./images).
+<img width="1106" height="597" alt="image" src="https://github.com/user-attachments/assets/09afc2ac-bcc1-49d4-b0d3-929d2463469d" />
+
 
 ## ✍️ Autora
 
