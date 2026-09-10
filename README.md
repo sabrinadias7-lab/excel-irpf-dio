@@ -39,8 +39,11 @@ O arquivo [`INFORME.xlsx`](./INFORME.xlsx) é dividido em 4 abas:
 ## 📸 Imagens
 
 <img width="1106" height="597" alt="image" src="https://github.com/user-attachments/assets/09afc2ac-bcc1-49d4-b0d3-929d2463469d" />
+<img width="1012" height="582" alt="image" src="https://github.com/user-attachments/assets/9f0243da-147f-4e90-bc03-045d549f5824" />
+<img width="1025" height="655" alt="image" src="https://github.com/user-attachments/assets/3f2198ed-4cdc-4744-92c9-5397d90b8bcb" />
 
 
 ## ✍️ Autora
 
-Projeto desenvolvido durante os estudos na trilha de Excel da [DIO](https://www.dio.me/).
+Projeto desenvolvido durante os estudos na trilha de Excel da [DIO](https://www.dio.me/)
+Sabrina Dias.
